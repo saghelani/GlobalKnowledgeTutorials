@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\Valuation\bin\Debug\Valuation.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\Valuation\bin\Debug\Valuation.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\Valuation\bin\Debug\Valuation.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\Valuation\obj\Debug\Valuation.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\Valuation\obj\Debug\Valuation.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\Valuation\obj\Debug\Valuation.pdb

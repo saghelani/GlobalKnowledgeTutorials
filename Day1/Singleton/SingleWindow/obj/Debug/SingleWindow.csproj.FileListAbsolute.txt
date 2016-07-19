@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\bin\Debug\SingleWindow.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\bin\Debug\SingleWindow.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\bin\Debug\SingleWindow.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.SearchForm.resources
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.Properties.Resources.resources
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.SexyNotepadForm.resources
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.pdb

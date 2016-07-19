@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Factories\work\before\Logger\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Factories\work\before\Logger\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Factories\work\before\Logger\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Factories\work\before\Logger\Client\bin\Debug\DM.Logger.dll
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Factories\work\before\Logger\Client\bin\Debug\DM.Logger.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Factories\work\before\Logger\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Factories\work\before\Logger\Client\obj\Debug\Client.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Factories\work\before\Logger\Client\obj\Debug\Client.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\BasicSingleton\bin\Debug\BasicSingleton.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\BasicSingleton\bin\Debug\BasicSingleton.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\BasicSingleton\bin\Debug\BasicSingleton.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\BasicSingleton\obj\Debug\BasicSingleton.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\BasicSingleton\obj\Debug\BasicSingleton.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\BasicSingleton\obj\Debug\BasicSingleton.pdb

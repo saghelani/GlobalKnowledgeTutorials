@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Observer\work\before\DelegateConsoleClock\bin\Debug\DelegateConsoleClock.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Observer\work\before\DelegateConsoleClock\bin\Debug\DelegateConsoleClock.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Observer\work\before\DelegateConsoleClock\bin\Debug\DelegateConsoleClock.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Observer\work\before\DelegateConsoleClock\obj\Debug\DelegateConsoleClock.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Observer\work\before\DelegateConsoleClock\obj\Debug\DelegateConsoleClock.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Observer\work\before\DelegateConsoleClock\obj\Debug\DelegateConsoleClock.pdb

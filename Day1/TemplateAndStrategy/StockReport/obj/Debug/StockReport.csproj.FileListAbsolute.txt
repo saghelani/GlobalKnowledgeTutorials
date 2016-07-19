@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\StockReport\bin\Debug\StockReport.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\StockReport\bin\Debug\StockReport.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\StockReport\bin\Debug\StockReport.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\StockReport\obj\Debug\StockReport.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\StockReport\obj\Debug\StockReport.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\TemplateAndStrategy\work\before\StockReport\obj\Debug\StockReport.csprojResolveAssemblyReference.cache

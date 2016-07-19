@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\LoggingThroughput\bin\Debug\LoggingThrouput.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\LoggingThroughput\bin\Debug\LoggingThrouput.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\LoggingThroughput\bin\Debug\LoggingThrouput.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\LoggingThroughput\obj\Debug\LoggingThrouput.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Singleton\work\before\LoggingThroughput\obj\Debug\LoggingThrouput.pdb
