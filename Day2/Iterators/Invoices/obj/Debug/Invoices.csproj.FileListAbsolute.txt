@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\Invoices\bin\Debug\Invoices.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\Invoices\bin\Debug\Invoices.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\Invoices\bin\Debug\Invoices.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\Invoices\obj\Debug\Invoices.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\Invoices\obj\Debug\Invoices.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\Invoices\obj\Debug\Invoices.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\CommandPattern\bin\Debug\CommandPattern.dll
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\CommandPattern\obj\Debug\CommandPattern.dll
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\CommandPattern\obj\Debug\CommandPattern.pdb

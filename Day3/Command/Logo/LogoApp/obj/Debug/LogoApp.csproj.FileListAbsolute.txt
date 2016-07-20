@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\bin\Debug\LogoApp.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\bin\Debug\LogoApp.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\bin\Debug\LogoApp.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\bin\Debug\LogoLib.dll
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\bin\Debug\LogoLib.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.LogoActionControl.resources
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.LogoForm.resources
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.Properties.Resources.resources
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\bin\Debug\CommandPattern.dll
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Command\work\before\Logo\LogoApp\bin\Debug\CommandPattern.pdb

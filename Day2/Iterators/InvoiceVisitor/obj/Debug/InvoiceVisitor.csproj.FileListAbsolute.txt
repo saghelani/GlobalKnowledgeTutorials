@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\InvoiceVisitor\bin\Debug\InvoiceVisitor.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\InvoiceVisitor\bin\Debug\InvoiceVisitor.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\InvoiceVisitor\bin\Debug\InvoiceVisitor.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\InvoiceVisitor\obj\Debug\InvoiceVisitor.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\InvoiceVisitor\obj\Debug\InvoiceVisitor.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Iterators\work\before\InvoiceVisitor\obj\Debug\InvoiceVisitor.csprojResolveAssemblyReference.cache

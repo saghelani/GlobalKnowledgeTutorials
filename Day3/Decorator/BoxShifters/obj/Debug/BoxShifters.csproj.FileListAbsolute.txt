@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Decorator\work\before\BoxShifters\bin\Debug\BoxShifters.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Decorator\work\before\BoxShifters\bin\Debug\BoxShifters.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Decorator\work\before\BoxShifters\bin\Debug\BoxShifters.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Decorator\work\before\BoxShifters\obj\Debug\BoxShifters.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Decorator\work\before\BoxShifters\obj\Debug\BoxShifters.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\Decorator\work\before\BoxShifters\obj\Debug\BoxShifters.pdb
