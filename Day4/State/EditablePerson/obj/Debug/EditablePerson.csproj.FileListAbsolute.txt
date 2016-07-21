@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\State\work\before\EditablePerson\bin\Debug\EditablePerson.exe.config
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\State\work\before\EditablePerson\bin\Debug\EditablePerson.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\State\work\before\EditablePerson\bin\Debug\EditablePerson.pdb
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\State\work\before\EditablePerson\obj\Debug\EditablePerson.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\State\work\before\EditablePerson\obj\Debug\EditablePerson.exe
+C:\Users\Administrator\Documents\2340-001_DsgnPatterns-EV\student\Labs\State\work\before\EditablePerson\obj\Debug\EditablePerson.pdb
