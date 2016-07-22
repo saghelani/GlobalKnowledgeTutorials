@@ -1,0 +1,5 @@
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\Repository\bin\Debug\Repository.dll
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\Repository\bin\Debug\Repository.pdb
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\Repository\obj\Debug\Repository.dll
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\Repository\obj\Debug\Repository.pdb

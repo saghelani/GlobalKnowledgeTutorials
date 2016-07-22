@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TFSBlogRepository\bin\Debug\TFSBlogRepository.dll
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TFSBlogRepository\bin\Debug\TFSBlogRepository.pdb
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TFSBlogRepository\bin\Debug\Repository.dll
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TFSBlogRepository\bin\Debug\ToDoModel.dll
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TFSBlogRepository\bin\Debug\ToDoModel.pdb
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TFSBlogRepository\bin\Debug\Repository.pdb
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TFSBlogRepository\obj\Debug\TFSBlogRepository.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TFSBlogRepository\obj\Debug\TFSBlogRepository.dll
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TFSBlogRepository\obj\Debug\TFSBlogRepository.pdb

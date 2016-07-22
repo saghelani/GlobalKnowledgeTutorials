@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\ORM-EF\MyFirstMvcWebApp.Entities\bin\Debug\MyFirstMvcWebApp.Entities.dll
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\ORM-EF\MyFirstMvcWebApp.Entities\bin\Debug\MyFirstMvcWebApp.Entities.pdb
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\ORM-EF\MyFirstMvcWebApp.Entities\obj\Debug\MyFirstMvcWebApp.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\ORM-EF\MyFirstMvcWebApp.Entities\obj\Debug\MyFirstMvcWebApp.Entities.dll
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\ORM-EF\MyFirstMvcWebApp.Entities\obj\Debug\MyFirstMvcWebApp.Entities.pdb

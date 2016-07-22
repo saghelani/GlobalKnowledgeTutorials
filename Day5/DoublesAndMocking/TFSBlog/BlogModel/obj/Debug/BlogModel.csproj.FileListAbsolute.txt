@@ -1,0 +1,4 @@
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\BlogModel\bin\Debug\ToDoModel.dll
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\BlogModel\bin\Debug\ToDoModel.pdb
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\BlogModel\obj\Debug\ToDoModel.dll
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\BlogModel\obj\Debug\ToDoModel.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TBlogServiceClient\bin\Debug\TBlogServiceClient.exe
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TBlogServiceClient\bin\Debug\TBlogServiceClient.pdb
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TBlogServiceClient\obj\x86\Debug\TBlogServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TBlogServiceClient\obj\x86\Debug\TBlogServiceClient.exe
+C:\Users\Administrator\Downloads\GK.Patterns.160718-master\GK.Patterns.160718-master\Labs\12-IoC\Before\TFSBlog\TBlogServiceClient\obj\x86\Debug\TBlogServiceClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\Repository\MyFirstMvcWebApp.Patterns\bin\Debug\MyFirstMvcWebApp.Patterns.dll
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\Repository\MyFirstMvcWebApp.Patterns\bin\Debug\MyFirstMvcWebApp.Patterns.pdb
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\Repository\MyFirstMvcWebApp.Patterns\bin\Debug\MyFirstMvcWebApp.Entities.dll
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\Repository\MyFirstMvcWebApp.Patterns\bin\Debug\MyFirstMvcWebApp.Entities.pdb
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\Repository\MyFirstMvcWebApp.Patterns\obj\Debug\MyFirstMvcWebApp.Patterns.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\Repository\MyFirstMvcWebApp.Patterns\obj\Debug\MyFirstMvcWebApp.Patterns.dll
+C:\Users\Administrator\Documents\Git\GlobalKnowledgeTutorials\Day5\Repository\MyFirstMvcWebApp.Patterns\obj\Debug\MyFirstMvcWebApp.Patterns.pdb
